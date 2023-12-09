@@ -22,4 +22,4 @@ function performExpensiveOperation(callback) {
 
 const filename = 'week-2/01-async-js/easy/3-file.txt';
 
-readFileAndPrint(filename);
+readFileAndPrint(filename); 
